@@ -1,0 +1,32 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #dedede;
+}
+img {
+    width: 60px;
+}
+.btn{
+    color: white;
+}
+.doct-img{
+    width: 100%;
+}
+.form-floating{
+    color: #af6dc1;
+}
+.form-control{
+    margin-bottom: 10px;
+}
+.card-img-top{
+    padding: 25%;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
